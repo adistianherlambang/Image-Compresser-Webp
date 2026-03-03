@@ -1,4 +1,4 @@
-# Image Compressor
+# Image Compresser Webp
 
 This is a simple Python script that converts JPEG and PNG images to WebP format and compresses them. It preserves the input directory structure and places the resulting files in an output folder.
 
